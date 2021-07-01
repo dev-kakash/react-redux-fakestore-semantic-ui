@@ -1,5 +1,3 @@
-# react-redux fetch data from api
-
 ## screenshot
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/78377017/124071367-07a70000-da61-11eb-8a2a-e2519cf3ebee.png)
